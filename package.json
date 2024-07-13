@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "repository": "https://github.com/kklooster3910/shopping_lists",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^18.20.4",
+    "postgresql": "^0.0.1",
+    "typescript": "^5.5.3"
+  }
+}
